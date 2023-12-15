@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lpha</string>
+    <string name="Titulo">Welcome</string>
+    <string name="p1btnadmin">Administrator</string>
+    <string name="p1btnregistra">Check in</string>
+    <string name="padmintitulo">Welcome Administrator.</string>
+    <string name="padminbtn1">Lists</string>
+    <string name="padminbtn2">Save questions</string>
+    <string name="pusuariostitulo">User List</string>
+    <string name="tvpregunta">Ask</string>
+    <string name="hpregunta">Capture the question</string>
+    <string name="h2">a) </string>
+    <string name="h3">b) </string>
+    <string name="h4">c) </string>
+    <string name="btnguardar">Save Questions</string>
+    <string name="txtsig">Next question</string>
+    <string name="rc">Enter the correct letter</string>
+    <string name="tvexamen">Examen</string>
+    <string name="siguiente">Next</string>
+    <string name="anterior">Former</string>
+    <string name="terminar">Finish</string>
+    <string name="tituloLu">Finish</string>
+    <string name="tituloM">Location obtained</string>
+    <string name="calificacion">Result</string>
+    <string name="valide_su_contrase_a_administrador">Password</string>
+    <string name="ingrese_su_contrase_a">Enter your password</string>
+    <string name="enviar">Send</string>
+    <string name="cantidad_de_preguntas">Amount</string>
+</resources>
